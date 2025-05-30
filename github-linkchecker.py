@@ -9,9 +9,11 @@ import warnings
 
 
 """
-This python code is developed to eaily monitor links available in your github account and create a report by 
+This python code is developed to easily monitor links available in your github account and create a report by 
 providing you with a csv file of broken links inside your account and repositories.
 use the code, fork it, improve it, and get your github account's broken links fixed!
+
+Copyright (c) 2025 [Salah Ebrahimipour]
 """
 
 # Suppress urllib3 SSL warning
